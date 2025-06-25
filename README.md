@@ -12,14 +12,15 @@ The dashboard helps identify inefficiencies such as high maintenance load, risin
 Its clean layout and real-time visuals make it ideal for supply chain monitoring and strategic decision-making.  
 This project demonstrates how data visualization can drive smarter logistics through centralized, data-driven storytelling.
 
-##OUTPUT
-![Image](https://github.com/user-attachments/assets/44ec3039-a09d-4def-8452-6eb17ecfd3aa)
-![Image](https://github.com/user-attachments/assets/f017bae0-bc3e-4e2a-9908-fe19c5b33527)
-![Image](https://github.com/user-attachments/assets/5c6c57f8-3239-42ab-b1a2-3f9c67931b6b)
-![Image](https://github.com/user-attachments/assets/d092fc70-e387-40d8-980a-987fc68f5619)
-![Image](https://github.com/user-attachments/assets/45a73d60-d32a-4c90-9354-20a6c98145af)
-![Image](https://github.com/user-attachments/assets/5423bf03-dca9-472e-9d6f-36fe3d98efbb)
-![Image](https://github.com/user-attachments/assets/df96ecc3-8c30-4ded-8224-808a78e71a6a)
-![Image](https://github.com/user-attachments/assets/e29f0f82-cdcd-4beb-bc00-663b4fb393af)
-![Image](https://github.com/user-attachments/assets/ff4456db-8f63-4b7a-835e-c63267373611)
-![Image](https://github.com/user-attachments/assets/755d3786-74f2-4a5d-920d-08dd29a3e6ac)
+#OUTPUT
+![Image](https://github.com/user-attachments/assets/8365fea3-e85f-44b2-8ca5-ed7f1934f011)
+![Image](https://github.com/user-attachments/assets/6e149c3b-9f8d-4048-b41c-3a365b4031b7)
+![Image](https://github.com/user-attachments/assets/68d7bae2-251d-49c6-975b-d9da739c9abd)
+![Image](https://github.com/user-attachments/assets/acaa4c0e-e55f-4c73-b74c-0c85198cc08b)
+![Image](https://github.com/user-attachments/assets/cec9da6d-8a2c-4236-ba5a-1f710d3e398f)
+![Image](https://github.com/user-attachments/assets/d395d5f8-c909-4a99-894e-6384437a528e)
+![Image](https://github.com/user-attachments/assets/1968da67-f48d-4df5-8ca9-ef3fec36b954)
+![Image](https://github.com/user-attachments/assets/5d59f444-2b89-4ad7-8fed-775cdbdd648a)
+![Image](https://github.com/user-attachments/assets/ef18bb7d-8375-42d0-bd03-cc99beb24dba)
+![Image](https://github.com/user-attachments/assets/95650af8-3ab6-491f-88c3-15c21f21a31a)
+![Image](https://github.com/user-attachments/assets/7e0c75e8-b382-4600-80e4-a7150ad4d187)
