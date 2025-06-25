@@ -23,4 +23,4 @@ This project demonstrates how data visualization can drive smarter logistics thr
 ![Image](https://github.com/user-attachments/assets/5d59f444-2b89-4ad7-8fed-775cdbdd648a)
 ![Image](https://github.com/user-attachments/assets/ef18bb7d-8375-42d0-bd03-cc99beb24dba)
 ![Image](https://github.com/user-attachments/assets/95650af8-3ab6-491f-88c3-15c21f21a31a)
-![Image](https://github.com/user-attachments/assets/7e0c75e8-b382-4600-80e4-a7150ad4d187)
+
